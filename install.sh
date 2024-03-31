@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Define the destination directories
-BIN_DIR="build/bin"
-LIB_DIR="build/lib"
+BIN_DIR="built/bin"
+LIB_DIR="built/lib"
 
 mkdir -p "$BIN_DIR"
 mkdir -p "$LIB_DIR"
